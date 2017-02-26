@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="48" height="100" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="2iiwzyv" tilewidth="16" tileheight="16" spacing="1" margin="1">
+  <image source="2iiwzyv.png" width="918" height="678"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="48" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztmVGKwzAMRMvuuXq4vfl+LIXFSIpkOdGMrQ+RtqT4PY9sQvz+er3eRv18/5V1D0Pt4NEO9fXhR3P4zzReLQcklyiX5FzBPH62uKTv1TlYDhLX+Fs7rOGPOGi9huJgza33ngoPax/18CE5aC4evkoHqxc8vVTtoM351fxrfJF773CQxvZkUr0uZrij6/qJnrrqGa9HpYM2fsSP0SGyB6z20Pp4vEb7R/qflNUKfsljdNB4Ms4rHLQ9ZNYhs/ZXOWh5WH0xk/PdDlo+0nxne3WVg5aFp0cyYz3pcFd5HCJZP8E8MzaDw1UvMDlYXCweK9hQ+dHZTuA/xQF5HXscGPgtByZ+6zmI1YGJX+Jk4x9ZM8/8CA6SC0NJz3tM/KMHK//IzeiwSwZse5CVA2Ox82sOzE7N3uynsKPuPyvfA1fye880kOrqTAGZXeLLnrNUso8O6OzM73w85zXIHpG5R/SY2SuRHGbnGCmLWQ4UhwwDgkOWoZp/RQYI/Jl1UM3fGdTzZzhQ+GdZ2Pl3cGj+egek2oF/B4dqhpP5d3Bo/vpid2j++mJ3aP7mz/Lv4FDNcDL/Dg7s/E/VL7ZpMPs=
+  </data>
+ </layer>
+</map>
